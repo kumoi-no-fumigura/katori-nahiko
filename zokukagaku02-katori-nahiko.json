@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/katori-nahiko",
  "yomi": "かとりなひこかしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集",
+  "era": "安永5〜6年（1776〜77）の詠",
+  "author": "楫取魚彦（1723〜1782）",
+  "desc": "下総の伊能魚彦（楫取魚彦）の家集。明和の末に真淵に入門し、古言の学に励んだと序にいう。伊能家に伝わる、安永5・6年の歌を書いた自筆の一巻による。"
+ },
  "editions": [
   {
    "pid": "993380",
